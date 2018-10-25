@@ -1,0 +1,3 @@
+[submodule "docs/archive"]
+	path = docs/archive
+	url = git://github.com/astrofrog/old-astropy-versions.git
