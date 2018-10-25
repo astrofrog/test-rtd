@@ -1,8 +1,0 @@
-
-
-UnitsError
-=====================================
-
-.. currentmodule:: astropy.coordinates.errors
-
-.. autoexception:: UnitsError

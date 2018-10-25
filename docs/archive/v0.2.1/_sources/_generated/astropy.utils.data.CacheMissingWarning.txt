@@ -1,8 +1,0 @@
-
-
-CacheMissingWarning
-======================================
-
-.. currentmodule:: astropy.utils.data
-
-.. autoexception:: CacheMissingWarning

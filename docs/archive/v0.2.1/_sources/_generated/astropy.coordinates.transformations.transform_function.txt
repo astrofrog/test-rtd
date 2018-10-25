@@ -1,8 +1,0 @@
-
-
-transform_function
-======================================================
-
-.. currentmodule:: astropy.coordinates.transformations
-
-.. autofunction:: transform_function

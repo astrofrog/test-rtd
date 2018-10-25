@@ -1,8 +1,0 @@
-
-
-make_validation_report
-========================================================
-
-.. currentmodule:: astropy.io.votable.validator.main
-
-.. autofunction:: make_validation_report

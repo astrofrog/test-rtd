@@ -1,8 +1,0 @@
-
-
-get_icrs_coordinates
-=====================================================
-
-.. currentmodule:: astropy.coordinates.name_resolve
-
-.. autofunction:: get_icrs_coordinates

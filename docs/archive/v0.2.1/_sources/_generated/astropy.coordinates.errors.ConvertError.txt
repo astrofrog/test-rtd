@@ -1,8 +1,0 @@
-
-
-ConvertError
-=======================================
-
-.. currentmodule:: astropy.coordinates.errors
-
-.. autoexception:: ConvertError

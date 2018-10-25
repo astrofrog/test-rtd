@@ -1,8 +1,0 @@
-
-
-fnpickle
-=======================================
-
-.. currentmodule:: astropy.io.misc.pickle_helpers
-
-.. autofunction:: fnpickle

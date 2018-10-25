@@ -1,8 +1,0 @@
-
-
-IllegalHourError
-===========================================
-
-.. currentmodule:: astropy.coordinates.errors
-
-.. autoexception:: IllegalHourError

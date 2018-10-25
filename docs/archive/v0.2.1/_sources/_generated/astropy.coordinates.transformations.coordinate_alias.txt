@@ -1,8 +1,0 @@
-
-
-coordinate_alias
-====================================================
-
-.. currentmodule:: astropy.coordinates.transformations
-
-.. autofunction:: coordinate_alias

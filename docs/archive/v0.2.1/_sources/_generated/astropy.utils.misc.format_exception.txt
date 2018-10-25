@@ -1,8 +1,0 @@
-
-
-format_exception
-===================================
-
-.. currentmodule:: astropy.utils.misc
-
-.. autofunction:: format_exception

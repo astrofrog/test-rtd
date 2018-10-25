@@ -1,8 +1,0 @@
-
-
-read_table_hdf5
-====================================
-
-.. currentmodule:: astropy.io.misc.hdf5
-
-.. autofunction:: read_table_hdf5

@@ -1,8 +1,0 @@
-
-
-spectral
-====================================
-
-.. currentmodule:: astropy.units.equivalencies
-
-.. autofunction:: spectral

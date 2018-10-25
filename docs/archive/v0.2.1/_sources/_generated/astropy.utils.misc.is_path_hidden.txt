@@ -1,8 +1,0 @@
-
-
-is_path_hidden
-=================================
-
-.. currentmodule:: astropy.utils.misc
-
-.. autofunction:: is_path_hidden
